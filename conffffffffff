@@ -1,0 +1,6 @@
+MAIL_DRIVER=smtp
+MAIL_HOST=IMAP 
+MAIL_PORT=465
+MAIL_USERNAME=info@selasolutions.net
+MAIL_PASSWORD=salmaselasolutions
+MAIL_ENCRYPTION=ssl
